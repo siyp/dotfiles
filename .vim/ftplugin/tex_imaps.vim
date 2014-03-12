@@ -4,7 +4,7 @@
 " {{{
 " calculate the mapleader character.
 let s:ml = '<Leader>'
-let g:Tex_Leader = "'"
+let g:Tex_Leader = "#"
 
 if !exists('s:doneMappings')
         let s:doneMappings = 1
